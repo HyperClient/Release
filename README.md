@@ -1,2 +1,4 @@
-# Release
-HyperClient Release Repository 
+# HyperClient 
+
+HyperClient : A lightweight client For Minecraft Bedrock Edition
+
